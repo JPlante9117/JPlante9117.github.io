@@ -1,11 +1,11 @@
 # Site settings
-author: Jacques Robert Plante
-title: 
+author: Jacques Plante
+title: Coding State of Mind
 header-img: img/home-bg.png
 email: jonlypaffle@gmail.com
-copyright_name: Jacques Robert Plante
+copyright_name: Jacques Plante
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about a musician turned coder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JPlante9117
