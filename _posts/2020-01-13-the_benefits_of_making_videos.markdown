@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Benefits of Making Videos"
-date:       2020-01-13 20:36:44 +0000
+date:       2020-01-13 15:36:45 -0500
 permalink:  the_benefits_of_making_videos
 ---
 
